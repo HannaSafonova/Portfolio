@@ -1,3 +1,3 @@
-# Data Analyst & Scientist 
+### Data Analyst & Scientist 
 
 OPEN SOURCE PROJECTS 
