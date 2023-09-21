@@ -1,9 +1,8 @@
 #                                        Portfolio 
 
 ##                                          SQL
-                                         
- ### [Project1. Database design writing in SQL.](https://github.com/HannaSafonova/Portfolio/blob/main/SQL/SQL%20Design.sql)
- ### Overview
+### [Project1. Database design writing in SQL.](https://github.com/HannaSafonova/Portfolio/blob/main/SQL/SQL%20Design.sql)
+### Overview
 1. Designing a database for course management.
    The database contains the following entities:
  a. students: student_no, teacher_no, course_no, student_name, email, birth_date.
