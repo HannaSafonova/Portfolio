@@ -2,7 +2,7 @@
 
 ##                                          SQL
                                          
- [###Project1. Database design writing in SQL] (https://github.com/HannaSafonova/Portfolio/blob/main/SQL/SQL%20Design.sql)
+ [Project1. Database design writing in SQL] (https://github.com/HannaSafonova/Portfolio/blob/main/SQL/SQL%20Design.sql)
 
 1. Designing a database for course management.
    The database contains the following entities:
