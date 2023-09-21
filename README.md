@@ -2,8 +2,8 @@
 
 ##                                          SQL
                                          
- ### [Project1. Database design writing in SQL](https://github.com/HannaSafonova/Portfolio/blob/main/SQL/SQL%20Design.sql)
-
+ ### [Project1. Database design writing in SQL.](https://github.com/HannaSafonova/Portfolio/blob/main/SQL/SQL%20Design.sql)
+ ### Overview
 1. Designing a database for course management.
    The database contains the following entities:
  a. students: student_no, teacher_no, course_no, student_name, email, birth_date.
@@ -13,12 +13,8 @@
 - In the students table, establishing a composite primary key consisting of student_no and birth_date.
 - Creating an index on the students.email field.
 - Establishing a unique index on the teachers.phone_no field.
-2. Adding test data (7-10 rows) to our three tables.
-3. Displaying data for any year from the "students" table and record in the form of 
-   a comment the execution plan of the query, indicating that the query will 
-   be executed on a specific partition.
-4. Intentionally creating 3 duplicates in the 'students' table (add 3 more identical rows).
-5. Writing a query that outputs rows with duplicates.
+2. Adding test data.
+3. Writing a query that outputs rows with duplicates.
 
 ## Project2. Requests writing in SQL
 
