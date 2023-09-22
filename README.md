@@ -25,14 +25,14 @@
    between their salary and the current average salary in their respective departments.
 
 ## [Project 3. Using Procedural Language in SQL](https://github.com/HannaSafonova/Portfolio/blob/main/SQL/SQL_ETL.sql)
-1. Creating a procedure for adding a new employee with the necessary list of input parameters.
+1. Creating a **procedure** for adding a new employee with the necessary list of input parameters.
    If a non-existing job title is provided, displaying an error with the appropriate message.
-2. Creating a procedure to update an employee's salary with the necessary list of input parameters.
+2. Creating a **procedure**to update an employee's salary with the necessary list of input parameters.
    If a non-existing employee is provided, displaying an error with the appropriate message.
-3. Creating a procedure for dismissing an employee, which involves deleting their entry 
+3. Creating a **procedure** for dismissing an employee, which involves deleting their entry 
    from other tables. If a non-existing employee number is provided, 
    displaying an error with the appropriate message.
-4. Creating a function that displays the current salary for an employee.
+4. Creating a **function** that displays the current salary for an employee.
    
   ![](/images/python.png)
 
@@ -47,13 +47,11 @@
 7. Creating a prediction model based on **DecisionTreeRegressor**.
 8. Creating a prediction model based on **KNeighborsRegressor**.
 9. Сhecking the effectiveness of the obtained models using the **cross-validation** technique.
-10. Comparing two built DecisionTreeRegressor and KNeighborsRegressor price prediction models by two metrics: cross_val_score and 
-    mean_squared_error.
+10. Comparing two built DecisionTreeRegressor and KNeighborsRegressor price prediction models by two metrics: **cross_val_score and 
+    mean_squared_error**.
 
 
 
-● Exploratory analysis of the Ikea database with machine learning elements written 
-in Python.  
 
 ● Visual analysis of the world happiness report in 2018 made with Tableau 
 
