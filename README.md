@@ -13,7 +13,7 @@
 2. Adding test data.
 3. Writing a query that outputs rows with duplicates.
 
-# Project2. Requests writing in SQL
+## Project2. Requests writing in SQL
 
 
 
