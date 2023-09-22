@@ -13,7 +13,18 @@
 2. Adding test data.
 3. Writing a query that outputs rows with duplicates.
 
-## Project2. Requests writing in SQL
+## [Project2. Requests writing in SQL](/SQL/SQL%20Requests.sql)
+1. Providing the average salary of employees for each year.
+2. Displaying the average salary of employees for each department.
+3. Providing the average salary of employees for each department per year.
+4. Showing the largest department (in terms of the number of employees) 
+   for each year and its average salary.
+5. Providing detailed information about the manager who has been 
+   in their position the longest currently.
+6. Displaying the top 10 current company employees with the largest difference 
+   between their salary and the current average salary in their respective departments.
+
+
 
 
 
