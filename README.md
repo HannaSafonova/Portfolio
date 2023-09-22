@@ -13,7 +13,7 @@
 2. Adding test data.
 3. Writing a query that outputs rows with duplicates.
 
-## [Project2. Requests writing in SQL](/SQL/SQL%20Requests.sql)
+## [Project 2. Requests writing in SQL.](/SQL/SQL%20Requests.sql)
 1. Providing the average salary of employees for each year.
 2. Displaying the average salary of employees for each department.
 3. Providing the average salary of employees for each department per year.
@@ -24,6 +24,17 @@
 6. Displaying the top 10 current company employees with the largest difference 
    between their salary and the current average salary in their respective departments.
 
+## [Project 3. Using Procedural Language in SQL](/SQL/SQL_ETL.sql)
+1. Creating a procedure for adding a new employee with the necessary list of input parameters.
+   If a non-existing job title is provided, displaying an error with the appropriate message.
+2. Creating a procedure to update an employee's salary with the necessary list of input parameters.
+   If a non-existing employee is provided, displaying an error with the appropriate message.
+3. Creating a procedure for dismissing an employee, which involves deleting their entry 
+   from other tables. If a non-existing employee number is provided, 
+   displaying an error with the appropriate message.
+4. Creating a function that displays the current salary for an employee.
+   
+ 
 
 
 
