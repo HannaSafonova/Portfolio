@@ -37,7 +37,7 @@
   ![](/images/python.png)
 
  ## [Project 4. Exploratory analysis of the Ikea database](https://github.com/HannaSafonova/Portfolio/tree/main/Python)
- ##  with machine learning elements written in Python.]
+                with machine learning elements written in Python.
 1. Downloading data using the requests and pandas libraries.
 2. Creating of the sql_step_project.db database using the sqlite3 library.
 3. Evaluating the quality of the data set using the Data Quality Framework methodology.
