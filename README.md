@@ -1,6 +1,6 @@
-#Portfolio 
+                            ![](https://github.com/HannaSafonova/Portfolio/blob/main/images/sql.jfif)
 
-## [Project1. Database design writing in SQL.](https://github.com/HannaSafonova/Portfolio/blob/main/SQL/SQL%20Design.sql)
+# [Project1. Database design writing in SQL.](https://github.com/HannaSafonova/Portfolio/blob/main/SQL/SQL%20Design.sql)
 1. Designing a database for course management.
    The database contains the following entities:
  a. students: student_no, teacher_no, course_no, student_name, email, birth_date.
@@ -13,7 +13,7 @@
 2. Adding test data.
 3. Writing a query that outputs rows with duplicates.
 
-## Project2. Requests writing in SQL
+# Project2. Requests writing in SQL
 
 
 
