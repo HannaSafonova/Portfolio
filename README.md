@@ -34,6 +34,7 @@
    displaying an error with the appropriate message.
 4. Creating a function that displays the current salary for an employee.
    
+  ![](/images/python.png)
  
 
 
