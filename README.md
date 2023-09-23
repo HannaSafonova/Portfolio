@@ -94,7 +94,6 @@ The results are presented as a graph comparing scores before and after changes t
    Happiness Score values have been computed using the **linear relationship** between Happiness Score and Measures. A comparison has 
    been made between the new and old Happiness Score values.
 
-
 ![](/images/powerbi_image.png)
 
 
