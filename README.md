@@ -68,6 +68,7 @@
 5. Identifying Below-Average Countries: Identifying countries with values below the global averages in terms of the cumulative quality 
    indicators and scores. Utilizing linear regression to establish a relationship between the score and the cumulative qualities, using 
    **the Analytics pane**.
+   
    A study has been conducted with the assumption that by modifying individual qualities, it's possible to improve a country's score. A linear relationship between the score and the cumulative qualities, along with quality parameters, is used for this purpose.
 The results are presented as a graph comparing scores before and after changes to specific qualities.
 
