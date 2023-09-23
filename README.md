@@ -1,28 +1,28 @@
 ![](/images/sql.jfif)
 
 ## [Project 1. Database design writing in SQL](https://github.com/HannaSafonova/Portfolio/blob/main/SQL/SQL%20Design.sql)
-1. Designing a database for course management.
-   The database contains the following entities:
- a. students: student_no, teacher_no, course_no, student_name, email, birth_date.
- b. teachers: teacher_no, teacher_name, phone_no.
- c. courses: course_no, course_name, start_date, end_date.
+1. Designing a database for course management, using operators: **CREATE DATABASE, CREATE TABLE, CREATE INDEX,
+   CREATE UNIQUE INDEX**, types: **PRIMARY KEY, PARTITION BY RANGE**.
+   The database contains the following tables: students, teachers, courses.
 - Partitioning the students table by years using the range mechanism on the birth_date field.
 - In the students table, establishing a composite primary key consisting of student_no and birth_date.
 - Creating an index on the students.email field.
 - Establishing a unique index on the teachers.phone_no field.
-2. Adding test data.
-3. Writing a query that outputs rows with duplicates.
+2. Adding test data, using operator **INSERT INTO**.
+3. Writing a query that outputs rows with duplicates, using **Window function COUNT**.
 
 ## [Project 2. Requests writing in SQL](https://github.com/HannaSafonova/Portfolio/blob/main/SQL/SQL%20Requests.sql)
-1. Providing the average salary of employees for each year.
-2. Displaying the average salary of employees for each department.
+1. Providing the average salary of employees for each year, using operators **SELECT, WHERE, GROUP BY, ORDER BY,
+   nested requests**, functions: **YEAR, ROUND, AVG, window function ROUND**
+2. Displaying the average salary of employees for each department, using **INNER JOIN**
 3. Providing the average salary of employees for each department per year.
 4. Showing the largest department (in terms of the number of employees) 
-   for each year and its average salary.
+   for each year and its average salary, using **CTE, window function MAX**.
 5. Providing detailed information about the manager who has been 
-   in their position the longest currently.
+   in their position the longest currently, using function **DATEDIFF**.
 6. Displaying the top 10 current company employees with the largest difference 
-   between their salary and the current average salary in their respective departments.
+   between their salary and the current average salary in their respective departments, using operator **LIMIT,
+   window function AVG**.
 
 ## [Project 3. Using Procedural Language in SQL](https://github.com/HannaSafonova/Portfolio/blob/main/SQL/SQL_ETL.sql)
 1. Creating a **procedure** for adding a new employee with the necessary list of input parameters.
