@@ -90,9 +90,9 @@ The results are presented as a graph comparing scores before and after changes t
 
 ![](/images/line.png)
   
-5.Map. Percentage-based parameters have been established for all happiness indicators to improve these indicators. New Measures and 
-  Happiness Score values have been computed using the **linear relationship** between Happiness Score and Measures. A comparison has 
-  been made between the new and old Happiness Score values.
+5. Map. Percentage-based parameters have been established for all happiness indicators to improve these indicators. New Measures and 
+   Happiness Score values have been computed using the **linear relationship** between Happiness Score and Measures. A comparison has 
+   been made between the new and old Happiness Score values.
 
 
 
