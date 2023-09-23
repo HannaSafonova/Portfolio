@@ -34,21 +34,19 @@
    displaying an error with the appropriate message.
 4. Creating a **function** that displays the current salary for an employee.
 
-![](/images/histogram_boxplot.jpg)
-
 ## [Project 4. Exploratory analysis of the Ikea database with machine learning elements written in Python.](https://github.com/HannaSafonova/Portfolio/tree/main/Python)                
 1. Downloading data using the **requests and pandas** libraries.
 2. Creating of the sql_step_project.db database using the **sqlite3** library.
 3. Evaluating the quality of the data set using the **Data Quality Framework** methodology.
 4. Сonsidering the distributions of each variable databases separately and in combination using the **seaborn
     and matplotlib** libraries.
-   ![](/images/(/images/histogram_boxplot.jpg)
-6. Applying **two-factor analysis of variance** to test the dependence of variables.
-7. Constructiing a **linear regression** model and applying it to fill in missing numerical values.
-8. Creating a prediction model based on **DecisionTreeRegressor**.
-9. Creating a prediction model based on **KNeighborsRegressor**.
-10. Сhecking the effectiveness of the obtained models using the **cross-validation** technique.
-11. Comparing two built DecisionTreeRegressor and KNeighborsRegressor price prediction models by two metrics: **cross_val_score and 
+ ![](/images/histogram_boxplot.jpg)
+5. Applying **two-factor analysis of variance** to test the dependence of variables.
+6. Constructiing a **linear regression** model and applying it to fill in missing numerical values.
+7. Creating a prediction model based on **DecisionTreeRegressor**.
+8. Creating a prediction model based on **KNeighborsRegressor**.
+9. Сhecking the effectiveness of the obtained models using the **cross-validation** technique.
+10. Comparing two built DecisionTreeRegressor and KNeighborsRegressor price prediction models by two metrics: **cross_val_score and 
     mean_squared_error**.
 
 
