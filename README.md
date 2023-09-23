@@ -69,15 +69,18 @@
    indicators and scores. Utilizing linear regression to establish a relationship between the score and the cumulative qualities, using 
    **the Analytics pane**.
 
-![](/images/tableau_graph.png)
-   
-    A study has been conducted with the assumption that by modifying individual qualities, it's possible to improve a country's score. A linear relationship between the score and the cumulative qualities, along with quality parameters, is used for this purpose.
+![](/images/tableau_graph.png) 
+
+A study has been conducted with the assumption that by modifying individual qualities, it's possible to improve a country's score. 
+A linear relationship between the score and the cumulative qualities, along with quality parameters, is used for this purpose.
 The results are presented as a graph comparing scores before and after changes to specific qualities.
 
 ![](/images/PowerBI.jpg)
 
 ## [Project 6. Visual analysis of the world happiness report in 2015-2022 made with Power BI](https://github.com/HannaSafonova/Portfolio/tree/main/Power%20BI)
-    Cleaning the data and adding the DimCountry reference table with **Power Query**. Creating a DimCalendar directory using the **DAX** tabular function, creating all the necessary relationships between tables and **Measures (DAX)**.
+    Cleaning the data and adding the DimCountry reference table with **Power Query**. Creating a DimCalendar directory using 
+    the **DAX** tabular function, 
+    creating all the necessary relationships between tables and **Measures (DAX)**.
   
 1. Top N Ranking. The top N ranking of countries based on Happiness Rank (with N being a **parameter**). This section also covers the 
    number of countries per region as a percentage and the average Happiness Score values per region relative to the overall average 
