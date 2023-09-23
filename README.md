@@ -33,8 +33,8 @@
    from other tables. If a non-existing employee number is provided, 
    displaying an error with the appropriate message.
 4. Creating a **function** that displays the current salary for an employee.
-   
-  ![](/images/python.png)
+
+![](/images/python.png)
 
 ## [Project 4. Exploratory analysis of the Ikea database with machine learning elements written in Python.](https://github.com/HannaSafonova/Portfolio/tree/main/Python)                
 1. Downloading data using the **requests and pandas** libraries.
