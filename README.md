@@ -77,5 +77,24 @@ The results are presented as a graph comparing scores before and after changes t
 ![](/images/Power%20BI.png)
 
 ## [Project 6. Visual analysis of the world happiness report in 2015-2022 made with Power BI](https://github.com/HannaSafonova/Portfolio/tree/main/Power%20BI)
+  Cleaning the data and adding the DimCountry reference table with **Power Query**. Creating a DimCalendar directory using the **DAX** tabular function, creating all the necessary relationships between tables and **Measures (DAX)**.
+1.Top N Ranking. The top N ranking of countries based on Happiness Rank (with N being a **parameter**). This section also covers the 
+  number of countries per region as a percentage and the average Happiness Score values per region relative to the overall average 
+  Happiness Score.
+2.Heatmap. Comparison of happiness indicators across years and regions, using **Table heatmap visual** from Power BI store.
+3.Waterfall. Analysis of the differences in happiness indicators compared to values from previous years, both in numerical and 
+  percentage terms.
+4.Line Graph. Exploring the relationship between Happiness Score and the composite variable Measures, which is the sum of average 
+  happiness indicators.
+
+![](/images/line.png)
+  
+5.Map. Percentage-based parameters have been established for all happiness indicators to improve these indicators. New Measures and 
+  Happiness Score values have been computed using the **linear relationship** between Happiness Score and Measures. A comparison has 
+  been made between the new and old Happiness Score values.
+
+
+
+
 
 
