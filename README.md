@@ -37,23 +37,23 @@
 ![](/images/python.png)
 
 ## [Project 4. Exploratory analysis of the Ikea database with machine learning elements written in Python](https://github.com/HannaSafonova/Portfolio/tree/main/Python)                
-1. Downloading data using the **requests and pandas** libraries.
-2. Creating of the sql_step_project.db database using the **sqlite3** library.
-3. Evaluating the quality of the data set using the **Data Quality Framework** methodology.
-4. Сonsidering the distributions of each variable databases separately and in combination using the **seaborn
+- Downloading data using the **requests and pandas** libraries.
+- Creating of the sql_step_project.db database using the **sqlite3** library.
+- Evaluating the quality of the data set using the **Data Quality Framework** methodology.
+- Сonsidering the distributions of each variable databases separately and in combination using the **seaborn
     and matplotlib** libraries.
    
  ![](/images/histogram_boxplot.jpg)
  
-5. Applying **two-factor analysis of variance** to test the dependence of variables.
-6. Constructiing a **linear regression** model and applying it to fill in missing numerical values.
+- Applying **two-factor analysis of variance** to test the dependence of variables.
+- Constructiing a **linear regression** model and applying it to fill in missing numerical values.
    
 ![](/images/regresion.jpg)
 
-7. Creating a prediction model based on **DecisionTreeRegressor**.
-8. Creating a prediction model based on **KNeighborsRegressor**.
-9. Сhecking the effectiveness of the obtained models using the **cross-validation** technique.
-10. Comparing two built DecisionTreeRegressor and KNeighborsRegressor price prediction models by two metrics: **cross_val_score and 
+- Creating a prediction model based on **DecisionTreeRegressor**.
+- Creating a prediction model based on **KNeighborsRegressor**.
+- Сhecking the effectiveness of the obtained models using the **cross-validation** technique.
+- Comparing two built DecisionTreeRegressor and KNeighborsRegressor price prediction models by two metrics: **cross_val_score and 
     mean_squared_error**.
     
 ![](/images/tableau.png)
@@ -81,18 +81,18 @@ The results are presented as a graph comparing scores before and after changes t
 Cleaning the data and adding the DimCountry reference table with **Power Query**. Creating a DimCalendar directory using 
 the **DAX** tabular function, creating all the necessary relationships between tables and **Measures (DAX)**.
   
-1. Top N Ranking. The top N ranking of countries based on Happiness Rank (with N being a **parameter**). This section also covers the 
+- Top N Ranking. The top N ranking of countries based on Happiness Rank (with N being a **parameter**). This section also covers the 
    number of countries per region as a percentage and the average Happiness Score values per region relative to the overall average 
    Happiness Score.
-2. Heatmap. Comparison of happiness indicators across years and regions, using **Table heatmap visual** from Power BI store.
-3. Waterfall. Analysis of the differences in happiness indicators compared to values from previous years, both in numerical and 
+- Heatmap. Comparison of happiness indicators across years and regions, using **Table heatmap visual** from Power BI store.
+- Waterfall. Analysis of the differences in happiness indicators compared to values from previous years, both in numerical and 
    percentage terms.
-4. Line Graph. Exploring the relationship between Happiness Score and the composite variable Measures, which is the sum of average 
+- Line Graph. Exploring the relationship between Happiness Score and the composite variable Measures, which is the sum of average 
    happiness indicators.
 
 ![](/images/line.png)
 
-5. Map. Percentage-based parameters have been established for all happiness indicators to improve these indicators. New Measures and 
+- Map. Percentage-based parameters have been established for all happiness indicators to improve these indicators. New Measures and 
    Happiness Score values have been computed using the **linear relationship** between Happiness Score and Measures. A comparison has 
    been made between the new and old Happiness Score values.
   
