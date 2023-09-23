@@ -78,9 +78,8 @@ The results are presented as a graph comparing scores before and after changes t
 ![](/images/PowerBI.jpg)
 
 ## [Project 6. Visual analysis of the world happiness report in 2015-2022 made with Power BI](https://github.com/HannaSafonova/Portfolio/tree/main/Power%20BI)
-    Cleaning the data and adding the DimCountry reference table with **Power Query**. Creating a DimCalendar directory using 
-    the **DAX** tabular function, 
-    creating all the necessary relationships between tables and **Measures (DAX)**.
+Cleaning the data and adding the DimCountry reference table with **Power Query**. Creating a DimCalendar directory using 
+the **DAX** tabular function, creating all the necessary relationships between tables and **Measures (DAX)**.
   
 1. Top N Ranking. The top N ranking of countries based on Happiness Rank (with N being a **parameter**). This section also covers the 
    number of countries per region as a percentage and the average Happiness Score values per region relative to the overall average 
