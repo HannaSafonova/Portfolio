@@ -58,10 +58,21 @@
     
 ![](/images/tableau.png)
 ## [Project 5. Visual analysis of the world happiness report in 2018 made with Tableau.](https://github.com/HannaSafonova/Portfolio/tree/main/Tableau)     
+1. Comparison of Country Scores: Comparing each country's Score with the average Score within its continent, focusing on intervals below 
+   the global mean score, using **the combined graphs, LOD calculations, the Analytics pane**.
+2. Continent Analysis: Examining the ratio of countries per continent, with a focus on the average Score values across continents, using 
+   **the Table calculation**.
+3. Top N Ranking: Ranking the top N countries based on their scores (N being a **parameter**).
+4. Quality of Life Calculation: Computing the total value of "Quality of Life" by summing up various qualities for each country,
+   using **the Calculated field**.
+5. Identifying Below-Average Countries: Identifying countries with values below the global averages in terms of the cumulative quality 
+   indicators and scores. Utilizing linear regression to establish a relationship between the score and the cumulative qualities, using 
+   **the Analytics pane**.
+   A study has been conducted with the assumption that by modifying individual qualities, it's possible to improve a country's score. A linear relationship between the score and the cumulative qualities, along with quality parameters, is used for this purpose.
+The results are presented as a graph comparing scores before and after changes to specific qualities.
 
 
 
 
-● Visual analysis of the world happiness report in 2018 made with Tableau 
 
 ● Visual analysis of the world happiness report in 2015-2022 made with Power BI 
