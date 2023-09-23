@@ -55,9 +55,7 @@
 9. Сhecking the effectiveness of the obtained models using the **cross-validation** technique.
 10. Comparing two built DecisionTreeRegressor and KNeighborsRegressor price prediction models by two metrics: **cross_val_score and 
     mean_squared_error**.
-
 ![](/images/tableau.png)
-
 ## [Project 5. Visual analysis of the world happiness report in 2018 made with Tableau.](https://github.com/HannaSafonova/Portfolio/tree/main/Tableau)     
 
 
