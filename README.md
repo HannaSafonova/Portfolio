@@ -1,6 +1,6 @@
 ![](/images/sql.jfif)
 
-## [Project 1. Database design writing in SQL.](https://github.com/HannaSafonova/Portfolio/blob/main/SQL/SQL%20Design.sql)
+## [Project 1. Database design writing in SQL](https://github.com/HannaSafonova/Portfolio/blob/main/SQL/SQL%20Design.sql)
 1. Designing a database for course management.
    The database contains the following entities:
  a. students: student_no, teacher_no, course_no, student_name, email, birth_date.
@@ -13,7 +13,7 @@
 2. Adding test data.
 3. Writing a query that outputs rows with duplicates.
 
-## [Project 2. Requests writing in SQL.](https://github.com/HannaSafonova/Portfolio/blob/main/SQL/SQL%20Requests.sql)
+## [Project 2. Requests writing in SQL](https://github.com/HannaSafonova/Portfolio/blob/main/SQL/SQL%20Requests.sql)
 1. Providing the average salary of employees for each year.
 2. Displaying the average salary of employees for each department.
 3. Providing the average salary of employees for each department per year.
@@ -24,7 +24,7 @@
 6. Displaying the top 10 current company employees with the largest difference 
    between their salary and the current average salary in their respective departments.
 
-## [Project 3. Using Procedural Language in SQL.](https://github.com/HannaSafonova/Portfolio/blob/main/SQL/SQL_ETL.sql)
+## [Project 3. Using Procedural Language in SQL](https://github.com/HannaSafonova/Portfolio/blob/main/SQL/SQL_ETL.sql)
 1. Creating a **procedure** for adding a new employee with the necessary list of input parameters.
    If a non-existing job title is provided, displaying an error with the appropriate message.
 2. Creating a **procedure**to update an employee's salary with the necessary list of input parameters.
@@ -36,7 +36,7 @@
 
 ![](/images/python.png)
 
-## [Project 4. Exploratory analysis of the Ikea database with machine learning elements written in Python.](https://github.com/HannaSafonova/Portfolio/tree/main/Python)                
+## [Project 4. Exploratory analysis of the Ikea database with machine learning elements written in Python](https://github.com/HannaSafonova/Portfolio/tree/main/Python)                
 1. Downloading data using the **requests and pandas** libraries.
 2. Creating of the sql_step_project.db database using the **sqlite3** library.
 3. Evaluating the quality of the data set using the **Data Quality Framework** methodology.
@@ -57,7 +57,7 @@
     mean_squared_error**.
     
 ![](/images/tableau.png)
-## [Project 5. Visual analysis of the world happiness report in 2018 made with Tableau.](https://github.com/HannaSafonova/Portfolio/tree/main/Tableau)     
+## [Project 5. Visual analysis of the world happiness report in 2018 made with Tableau](https://github.com/HannaSafonova/Portfolio/tree/main/Tableau)     
 1. Comparison of Country Scores: Comparing each country's Score with the average Score within its continent, focusing on intervals below 
    the global mean score, using **the combined graphs, LOD calculations, the Analytics pane**.
 2. Continent Analysis: Examining the ratio of countries per continent, with a focus on the average Score values across continents, using 
@@ -69,13 +69,13 @@
    indicators and scores. Utilizing linear regression to establish a relationship between the score and the cumulative qualities, using 
    **the Analytics pane**.
 
-   ![](/images/tableau_graph.png)
+![](/images/tableau_graph.png)
    
    A study has been conducted with the assumption that by modifying individual qualities, it's possible to improve a country's score. A linear relationship between the score and the cumulative qualities, along with quality parameters, is used for this purpose.
 The results are presented as a graph comparing scores before and after changes to specific qualities.
 
+![](/images/Power%20BI.png)
+
+## [Project 6. Visual analysis of the world happiness report in 2015-2022 made with Power BI](https://github.com/HannaSafonova/Portfolio/tree/main/Power%20BI)
 
 
-
-
-● Visual analysis of the world happiness report in 2015-2022 made with Power BI 
