@@ -45,6 +45,9 @@
  
 5. Applying **two-factor analysis of variance** to test the dependence of variables.
 6. Constructiing a **linear regression** model and applying it to fill in missing numerical values.
+   
+![](/images/regresion.jpg)
+
 7. Creating a prediction model based on **DecisionTreeRegressor**.
 8. Creating a prediction model based on **KNeighborsRegressor**.
 9. Сhecking the effectiveness of the obtained models using the **cross-validation** technique.
