@@ -91,11 +91,11 @@ the **DAX** tabular function, creating all the necessary relationships between t
    happiness indicators.
 
 ![](/images/line.png)
-  
+
 5. Map. Percentage-based parameters have been established for all happiness indicators to improve these indicators. New Measures and 
    Happiness Score values have been computed using the **linear relationship** between Happiness Score and Measures. A comparison has 
    been made between the new and old Happiness Score values.
-6.
+  
 
 ![](/images/powerbi_image.png)
 
