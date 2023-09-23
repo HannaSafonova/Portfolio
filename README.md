@@ -34,6 +34,8 @@
    displaying an error with the appropriate message.
 4. Creating a **function** that displays the current salary for an employee.
 
+![](/images/python.png)
+
 ## [Project 4. Exploratory analysis of the Ikea database with machine learning elements written in Python.](https://github.com/HannaSafonova/Portfolio/tree/main/Python)                
 1. Downloading data using the **requests and pandas** libraries.
 2. Creating of the sql_step_project.db database using the **sqlite3** library.
@@ -53,6 +55,10 @@
 9. Сhecking the effectiveness of the obtained models using the **cross-validation** technique.
 10. Comparing two built DecisionTreeRegressor and KNeighborsRegressor price prediction models by two metrics: **cross_val_score and 
     mean_squared_error**.
+
+![](/images/tableau.png)
+
+## [Project 5. Visual analysis of the world happiness report in 2018 made with Tableau.](https://github.com/HannaSafonova/Portfolio/tree/main/Tableau)     
 
 
 
