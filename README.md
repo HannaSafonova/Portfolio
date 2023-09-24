@@ -38,7 +38,7 @@
 
 ## [Project 4. Exploratory analysis of the Ikea database with machine learning elements written in Python](https://github.com/HannaSafonova/Portfolio/tree/main/Python)                
 - Downloading data using the **requests and pandas** libraries.
-- Creating of the sql_step_project.db database using the **sqlite3** library.
+- Creating the sql_step_project.db database using the **sqlite3** library.
 - Evaluating the quality of the data set using the **Data Quality Framework** methodology.
 - Сonsidering the distributions of each variable databases separately and in combination using the **seaborn
     and matplotlib** libraries.
@@ -46,7 +46,7 @@
  ![](/images/histogram_boxplot.jpg)
  
 - Applying **two-factor analysis of variance** to test the dependence of variables.
-- Constructiing a **linear regression** model and applying it to fill in missing numerical values.
+- Constructing a **linear regression** model and applying it to fill in missing numerical values.
    
 ![](/images/regresion.jpg)
 
