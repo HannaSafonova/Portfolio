@@ -3,13 +3,13 @@
 ## [Project 1. Database design writing in SQL](https://github.com/HannaSafonova/Portfolio/blob/main/SQL/SQL%20Design.sql)
 1. Designing a database for course management, using operators: **CREATE DATABASE, CREATE TABLE, CREATE INDEX,
    CREATE UNIQUE INDEX**, types: **PRIMARY KEY, PARTITION BY RANGE**.
-   The database contains the following tables: students, teachers, courses.
+   The database contains the following tables: students, teachers, and courses.
 - Partitioning the students table by years using the range mechanism on the birth_date field.
-- In the students table, establishing a composite primary key consisting of student_no and birth_date.
+- Establishing a composite primary key consisting of student_no and birth_date, in the students table
 - Creating an index on the students.email field.
 - Establishing a unique index on the teachers.phone_no field.
-2. Adding test data, using operator **INSERT INTO**.
-3. Writing a query that outputs rows with duplicates, using **Window function COUNT**.
+2. Adding test data, using the operator **INSERT INTO**.
+3. Writing a query that outputs rows with duplicates, using the **Window function COUNT**.
 
 ## [Project 2. Requests writing in SQL](https://github.com/HannaSafonova/Portfolio/blob/main/SQL/SQL%20Requests.sql)
 1. Providing the average salary of employees for each year, using operators **SELECT, WHERE, GROUP BY, ORDER BY,
@@ -27,11 +27,10 @@
 ## [Project 3. Using Procedural Language in SQL](https://github.com/HannaSafonova/Portfolio/blob/main/SQL/SQL_ETL.sql)
 1. Creating a **procedure** for adding a new employee with the necessary list of input parameters.
    If a non-existing job title is provided, displaying an error with the appropriate message.
-2. Creating a **procedure**to update an employee's salary with the necessary list of input parameters.
+2. Creating a **procedure** to update an employee's salary with the necessary list of input parameters.
    If a non-existing employee is provided, displaying an error with the appropriate message.
-3. Creating a **procedure** for dismissing an employee, which involves deleting their entry 
-   from other tables. If a non-existing employee number is provided, 
-   displaying an error with the appropriate message.
+3. Creating a **procedure** for dismissing an employee involves deleting their entry from other tables.
+   If a non-existing employee number is provided, displaying an error with the appropriate message
 4. Creating a **function** that displays the current salary for an employee.
 
 ![](/images/python.png)
@@ -46,7 +45,7 @@
  ![](/images/histogram_boxplot.jpg)
  
 - Applying **two-factor analysis of variance** to test the dependence of variables.
-- Constructing a **linear regression** model and applying it to fill in missing numerical values.
+- Constructing and applying a **linear regression model** to fill in missing numerical values.
    
 ![](/images/regresion.jpg)
 
@@ -59,13 +58,13 @@
 ![](/images/tableau.png)
 ## [Project 5. Visual analysis of the world happiness report in 2018 made with Tableau](https://github.com/HannaSafonova/Portfolio/tree/main/Tableau)     
 1. Comparison of Country Scores: Comparing each country's Score with the average Score within its continent, focusing on intervals below 
-   the global mean score, using **the combined graphs, LOD calculations, the Analytics pane**.
+   the global mean score, using **the combined graphs, LOD calculations, and the Analytics pane**.
 2. Continent Analysis: Examining the ratio of countries per continent, with a focus on the average Score values across continents, using 
    **the Table calculation**.
 3. Top N Ranking: Ranking the top N countries based on their scores (N being a **parameter**).
 4. Quality of Life Calculation: Computing the total value of "Quality of Life" by summing up various qualities for each country,
    using **the Calculated field**.
-5. Identifying Below-Average Countries: Identifying countries with values below the global averages in terms of the cumulative quality 
+5. Identifying Below-Average Countries: Identifying countries with values below the global averages in terms of cumulative quality 
    indicators and scores. Utilizing linear regression to establish a relationship between the score and the cumulative qualities, using 
    **the Analytics pane**.
 
@@ -81,7 +80,7 @@ The results are presented as a graph comparing scores before and after changes t
 Cleaning the data and adding the DimCountry reference table with **Power Query**. Creating a DimCalendar directory using 
 the **DAX** tabular function, creating all the necessary relationships between tables and **Measures (DAX)**.
   
-- Top N Ranking. The top N ranking of countries based on Happiness Rank (with N being a **parameter**). This section also covers the 
+- Top N Ranking. The top N ranking of countries is based on the Happiness Rank (with N being a **parameter**). This section also covers the 
    number of countries per region as a percentage and the average Happiness Score values per region relative to the overall average 
    Happiness Score.
 - Heatmap. Comparison of happiness indicators across years and regions, using **Table heatmap visual** from Power BI store.
